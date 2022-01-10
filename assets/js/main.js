@@ -29,7 +29,7 @@
 		});
 
 	// Text animation
-		$('#giant').neonText({
+		$('.giant').neonText({
 		});
 
 
